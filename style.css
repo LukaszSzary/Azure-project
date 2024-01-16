@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#input_textarea {
+    float: left;
+    width: 500px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+#send {
+    width: 75px;
+    height: 50px;
+}
